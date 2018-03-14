@@ -1,2 +1,2 @@
 # TestRN
-smaple
+sample
